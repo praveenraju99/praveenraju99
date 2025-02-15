@@ -1,16 +1,16 @@
-## Hi there 👋
+🚀 Software Developer | Data Analyst | Cloud & BI Enthusiast
 
-<!--
-**praveenraju99/praveenraju99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 
 
-Here are some ideas to get you started:
+I’m Praveen Raju Meesala, a passionate Software Developer and Data Analyst with a strong background in business analytics, data visualization, cloud computing, and full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Technical Stack: 💻 Programming: Python, Java, R, SQL, GoLang, C, C++, JavaScript, TypeScript, Swift, Shell Scripting 🌐 Web & Backend: React.js, Angular, Node.js, Django, Flask, FastAPI 📊 BI & Visualization: Tableau, Power BI, D3.js, Excel (VBA, Pivot Tables) ☁️ Cloud & Databases: AWS, Azure, Google Cloud, MySQL, PostgreSQL, MongoDB ⚙️ DevOps & Automation: Git, Jenkins, Terraform, Microservices, REST APIs
+
+🔹 What I Work On: ✔ Building scalable software applications & microservices ✔ Automating data pipelines & optimizing performance ✔ Creating interactive dashboards for business intelligence ✔ Deploying cloud solutions & backend architectures
+
+🔹 GitHub Projects & Contributions: I love contributing to open-source projects and developing real-world applications that solve complex business challenges. Check out my repositories for projects in data analytics, full-stack development, automation, and cloud computing.
+
+🔹 Let's Connect! 
+📫 Email: meesalapraveenraju@gmail.com 
+🔗 LinkedIn: linkedin.com/in/praveen-raju-meesala 
+🌍 Portfolio: GitHub Profile
